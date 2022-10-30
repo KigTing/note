@@ -22,3 +22,11 @@ string variable：----->字符数组的变量，just表现形式不同
 %ld:long,long long(所有大于int )
 %u:unsigned
 %lu:unsigned long long
+
+二.矩阵
+1.矩阵在C语言中如何表示？
+  数组
+2.矩阵加法：多维数组，遍历，for嵌套
+3.矩阵乘法：注意行列数的变化，引入中间值idx
+   本质：两个线性变化的复合
+4.矩阵的转置：注意行列交换，for循环时的赋值
